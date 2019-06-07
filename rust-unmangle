@@ -1,4 +1,4 @@
-#!/usr/bin/sed -rf
+#!/bin/sed -rf
 # Unmangle Rust symbols
 # See https://git.kernel.org/cgit/linux/kernel/git/tip/tip.git/commit/?id=cae15db74999edb96dd9f5bbd4d55849391dd92b
 # Example, with [FlameGraph](https://github.com/brendangregg/FlameGraph):
